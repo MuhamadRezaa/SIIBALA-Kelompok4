@@ -1,0 +1,21 @@
+Petunjuk Awal Menjalani Migrasi
+Jika ingin memulai pembuatan database baru
+Menambahkan langsung akun Administator ke tabel user sekaligus migrasi
+
+php artisan migrate --seed
+
+
+Jika menggunakan database yang sudah tersedia
+Akun login: 
+
+administrator@gmail.com
+qwertyzxcvbnm@sibalati#24
+
+admin@gmail.com
+qwertyzxcvbnm@sibalati#24
+
+pimpinan@gmail.com
+pimpinan123
+
+user@gmail.com
+user12345
